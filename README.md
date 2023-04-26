@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+https://submissions.us-east-1.linodeobjects.com/ios102/0sIXKYBY.gif
 ## License
 
     Copyright [16-04-2023] [Hassan AlJazaeri]
